@@ -120,7 +120,7 @@
       </group>
     </layout>
   </citation>
-  <bibliography hanging-indent="true">
+  <bibliography hanging-indent="false">
     <sort>
       <key macro="author-short"/>
       <key variable="issued"/>
